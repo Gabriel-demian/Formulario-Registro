@@ -1,0 +1,22 @@
+#datosFormulario{
+    margin-top: 40px; 
+    background-color: #fff; 
+    padding: 20px; 
+    border: solid 1px #ddd;
+}
+
+.registro{
+    margin-top: 40px; 
+    background-color: #fff; 
+    padding: 20px; 
+    border: solid 1px #ddd;
+}
+
+.encabezado{
+    background-color: #337ab7; 
+    height: 50px;
+}
+
+.fondo{
+    background-color: #ededed;
+}
